@@ -1,6 +1,7 @@
 ---
 title: Clarity d.o.o. Legal information
 ---
+
 **Clarity d.o.o.** za računalne i srodne djelatnosti
 
 Društvo je upisano u sudski registar trgovačkog suda u Zagrebu pod matičnim brojem 081582571, OIB 07596666312. Temeljni kapital društva iznosi 2.500,00 EUR i uplaćen je u cijelosti u novcu. 
