@@ -1,0 +1,9 @@
+**Clarity d.o.o.** za računalne i sroedne djelatnosti
+
+Društvo je upisano u sudski registar trgovačkog suda u Zagrebu pod matičnim brojem 081582571, OIB 07596666312. Temeljni kapital društva iznosi 2.500,00 EUR i uplaćen je u cijelosti u novcu. 
+
+Raiffeisenbank Austria d.d. 
+Zagreb, Magazinska cesta 69
+IBAN HR8524840081135393325
+
+Jeidni član društva i direktor: Ivan Klarić
