@@ -10,4 +10,4 @@ Raiffeisenbank Austria d.d.
 Zagreb, Magazinska cesta 69
 IBAN HR8524840081135393325
 
-Jeidni član društva i direktor: Ivan Klarić
+Jedini član društva i direktor: Ivan Klarić
