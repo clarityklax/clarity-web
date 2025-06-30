@@ -9,3 +9,7 @@ Clarity Notes is a modern, opinionated note taking application built for workers
   * Make a notes public to be easily shareble with everyone that has a link
   * Search through your notes and talk to a chatbot to help you organize them
   * Find missing todos across all your notes
+
+Notes is still very much a work in progress. You can see the current roadmap [here](https://notes.clarity.hr/public-notes/9a99169c-1dee-4869-b4be-3da46cac418d): 
+
+<iframe src="[/path/to/your/page.html](https://notes.clarity.hr/public-notes/9a99169c-1dee-4869-b4be-3da46cac418d)" width="100%" height="400"></iframe>
