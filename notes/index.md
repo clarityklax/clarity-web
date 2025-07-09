@@ -20,7 +20,7 @@ Notes and their metadata are then fed to an LLM (still WIP) that make it easy to
   * When did we originally decide to implement this feature that way?
 or just plainly fetch (and share) useful frequently used information (e.g. code snippets, CSV/JSON dumps, etc) with others.
 
-Notes is still very much a work in progress. You can see the current roadmap [here](https://notes.clarity.hr/public-notes/9a99169c-1dee-4869-b4be-3da46cac418d). Please send any and all feedback to iklaric [at] clarity [dot] hr.
+Notes is still very much a work in progress. You can see the current roadmap [here](https://notes.clarity.hr/public-notes/9a99169c-1dee-4869-b4be-3da46cac418d). Please send any and all feedback to iklaric [at] clarity [dot] hr. You can take it for a spin by logging in on [notes.clarity.hr](https://notes.clarity.hr)
 
 <iframe src="https://notes.clarity.hr/public-notes/9a99169c-1dee-4869-b4be-3da46cac418d" width="100%" height="400"></iframe>
 
