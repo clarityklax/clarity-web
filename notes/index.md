@@ -14,9 +14,10 @@ Clarity Notes solves this by making this knowledge easier to record, retrieve, a
 
 ![image](main_screen.png)
 
-Notes and their metadata are then fed to an LLM that make it easy retrieve and summarize knowledge in them. For example, you can easily answer questions such as
+Notes and their metadata are then fed to an LLM that make it easy to retrieve and summarize this knowledge. For example, you can easily answer questions such as
   * What's the summary of my interaction with Bruno over the past six months? What projects did we work on, what are the highlights?
   * What TODOs do I still have open across all my docs?
+  * When did we originally decide to implement this feature that way?
 or just plainly fetch (and share) useful frequently used information (e.g. code snippets, CSV/JSON dumps, etc) with others.
 
 Notes is still very much a work in progress. You can see the current roadmap [here](https://notes.clarity.hr/public-notes/9a99169c-1dee-4869-b4be-3da46cac418d): 
