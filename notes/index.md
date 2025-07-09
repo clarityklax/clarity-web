@@ -12,10 +12,11 @@ Over time, a lot of knowledge accumulates in these notes. This knowledge can be 
 Clarity notes solves this by automatically recording relevant context:
   * when you start a meeting note, it'll pull meeting metadata (topic, description, invitees) from your calendar. Sharing the note via email with attendees is a click away.
   * if you forward (or CC) clarity notes on an email, it will get automatically imported into your notes together with metadata (email subject, content, recepients)
-  * you can tag notes with types (1:1s, Thoughts, TODOs, Deployment plans, etc) and project names
+  * you can tag notes with types (1:1s, Thoughts, TODOs, Deployment plans, etc) and project names  
+
 Which is then fed to an LLM that make it easy to answer questions such as
-  * __What's the summary of my interaction with Bruno over the past six months? What projects did we work on, what are the highlights?__
-  * __What TODOs do I still have open across all my docs?__
+  * What's the summary of my interaction with Bruno over the past six months? What projects did we work on, what are the highlights?
+  * What TODOs do I still have open across all my docs?
 or just plainly fetch (and share) useful frequently used information (e.g. code snippets, CSV/JSON dumps, etc)
 
 Notes is still very much a work in progress. You can see the current roadmap [here](https://notes.clarity.hr/public-notes/9a99169c-1dee-4869-b4be-3da46cac418d): 
