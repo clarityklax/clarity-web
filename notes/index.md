@@ -2,13 +2,16 @@
 title: Clarity Notes
 ---
 
+As workers in tech, most of our time is spent writing or reviewing code, notes, tech specs, prds, design documents, designs. People in leadership roles (EMs, PMs, TPMs, PgMs, TLs) tend to create and consume a lot of text: TODOs, random thoughts, notes on specific topics, etc. Over time, a lot of knowledge accumulates in these notes. This knowledge can be incredibly useful when doing retrospection (e.g. trying to recall everything you worked on with someone) and introspection (e.g. trying to recall what were your initial thoughts or plans for a project when it started). At the same time, this knowledge is frequently not recorded (who regularly takes and shares meeting notes?) or is hard to retrieve (it's hard to gauge whether a specific note is about a specific person).
 
-Clarity Notes is a modern, opinionated note taking application built for workers in tech: software engineers, engineering managers, product managers, designers, etc. It integrates tightly with tools you already use (Gmail, Google Calendar) to give you the right context at the right time:
-  * Start taking notes for the meeting you're currently at or just finished, all meeting context (invitees, topic, agenda) will be there, and shared with a click of a button.
-  * Make a notes public to be easily shareble with everyone that has a link
-  * Search through your notes and talk to a chatbot to help you organize them
-  * Find missing todos across all your notes
-  * Send an email to Clarity Notes and it's turned into a note
+Clarity notes solves this by automatically recording relevant context:
+  * when you start a meeting note, it'll pull meeting metadata (topic, description, invitees) from your calendar. Sharing the note via email with attendees is a click away.
+  * if you forward (or CC) clarity notes on an email, it will get automatically imported into your notes together with metadata (email subject, content, recepients)
+  * you can tag notes with types (1:1s, Thoughts, TODOs, Deployment plans, etc) and project names
+Which is then fed to an LLM that make it easy to answer questions such as
+  * __What's the summary of my interaction with Bruno over the past six months? What projects did we work on, what are the highlights?__
+  * __What TODOs do I still have open across all my docs?__
+or just plainly fetch (and share) useful frequently used information (e.g. code snippets, CSV/JSON dumps, etc)
 
 Notes is still very much a work in progress. You can see the current roadmap [here](https://notes.clarity.hr/public-notes/9a99169c-1dee-4869-b4be-3da46cac418d): 
 
