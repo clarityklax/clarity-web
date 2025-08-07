@@ -51,7 +51,7 @@ If this sounds useful to you, leave your email below. I'll only contact you if/w
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdQHc9FSGxYJUSfpz4F4mTUbMZejdpEet0MKKoOT_DbuqnhXA/viewform?usp=dialog" width="640" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-*No spam. Just a single email if this becomes real.*
+*No spam. Just an email if this becomes real.*
 
 ---
 
