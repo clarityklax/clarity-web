@@ -1,3 +1,7 @@
+---
+title: Email to Self, But Better
+description: A simple solution for well organized self-emails
+---
 # Email to Self, But Better
 <p align="center">
   <img src="logo.jpeg" alt="Logo" width="200">
