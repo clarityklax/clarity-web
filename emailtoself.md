@@ -2,6 +2,10 @@
 
 ## Testing an idea: What if your emailed notes were actually searchable?
 
+<p align="center">
+  <img src="logo.jpeg" alt="Logo" width="200">
+</p>
+
 ---
 
 ### The Problem
