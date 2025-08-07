@@ -1,10 +1,7 @@
+# Email to Self, But Better
 <p align="center">
   <img src="logo.jpeg" alt="Logo" width="200">
 </p>
-
-
-# Email to Self, But Better
-
 ## Testing an idea: What if your emailed notes were actually searchable?
 
 
