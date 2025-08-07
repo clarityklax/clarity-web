@@ -33,7 +33,7 @@ That's it. No complex features. Just a simple tool that makes your existing habi
 
 **This is just an idea I'm exploring.** I want to know if others face this same problem and would find this valuable.
 
-If enough people are interested, I'll build it (likely on top of [Clarity Notes](https://clarity.hr/notes)
+If enough people are interested, I'll build it (likely on top of [Clarity Notes](https://clarity.hr/notes))
 
 ---
 
