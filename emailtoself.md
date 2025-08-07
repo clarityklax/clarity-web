@@ -1,7 +1,6 @@
 ---
 title: Email to Self, But Better
 description: A simple solution for well organized self-emails
-layout: default
 ---
 <p align="center">
   <img src="logo.jpeg" alt="Logo" width="200">
