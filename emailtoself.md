@@ -5,11 +5,8 @@ description: A simple solution for well organized self-emails
 <p align="center">
   <img src="logo.jpeg" alt="Logo" width="200">
 </p>
+
 ## Testing an idea: What if your emailed notes were automatically organized?
-
-
----
-
 ### The Problem
 
 You email yourself stuff all the time—articles, ideas, reminders, links. But finding that thing you sent yourself last week? Good luck digging through your inbox.
