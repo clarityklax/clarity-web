@@ -43,7 +43,7 @@ If enough people are interested, I'll build it (likely on top of [Clarity Notes]
 
 If this sounds useful to you, leave your email below. I'll only contact you if/when I actually build this.
 
-**[Email signup form]**
+<iframe src="[YOUR_GOOGLE_FORM_EMBED_URL](https://docs.google.com/forms/d/e/1FAIpQLSdQHc9FSGxYJUSfpz4F4mTUbMZejdpEet0MKKoOT_DbuqnhXA/viewform?usp=dialog)" width="640" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 *No spam. Just a single email if this becomes real.*
 
