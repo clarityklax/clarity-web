@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Reflecting on my post-Google experience so far"
