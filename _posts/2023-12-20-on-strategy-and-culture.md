@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On strategy and culture"
-date: 2024-01-21
+date: 2023-12-20
 ---
 
 > Culture eats strategy for breakfast.
