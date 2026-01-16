@@ -12,8 +12,6 @@ I'm [Ivan Klaric](https://www.linkedin.com/in/iklaric/), a software engineer (th
 
  I also love building stuff. Most recent example is my take on a [note taking application](https://notes.clarity.hr) that I've been occassionally working on since late 2024. To learn more about it, go [here](/notes/index.html). Feel free to give it a spin and let me know what you think.
 
-I also occasionally write about software engineering, product development, and building things. Check out my [blog](/blog).
-
 [Legal Information](/legal)
 
 
