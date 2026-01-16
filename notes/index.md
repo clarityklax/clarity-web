@@ -2,6 +2,10 @@
 title: Clarity Notes
 ---
 
+<nav style="margin-bottom: 2em;">
+  <a href="/">← Home</a> | <a href="/blog">Blog</a>
+</nav>
+
 As workers in tech, most of our time is spent writing or reviewing code, notes, tech specs, prds, design documents, designs. People in leadership roles (EMs, PMs, TPMs, PgMs, TLs) tend to create and consume a lot of knowledge encoded in text: TODOs, random thoughts, notes on specific topics, etc. 
 
 
