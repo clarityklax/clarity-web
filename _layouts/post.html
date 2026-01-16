@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<nav class="post-navigation" style="margin-bottom: 2em;">
+  <a href="/">← Home</a> | <a href="/blog">← Blog</a>
+</nav>
+
+<article class="post">
+  <header class="post-header">
+    <h1>{{ page.title }}</h1>
+    <p class="post-meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}">
+        {{ page.date | date: "%B %d, %Y" }}
+      </time>
+    </p>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+</article>
+
+<nav class="post-navigation" style="margin-top: 3em; padding-top: 2em; border-top: 1px solid #ccc;">
+  <a href="/">← Home</a> | <a href="/blog">← Blog</a>
+</nav>

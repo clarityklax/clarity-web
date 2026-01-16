@@ -14,7 +14,6 @@ Similarly at work, we frequently deal with wicked problems: from which features 
 
 Reality we live in is complex and volatile (and probably getting more volatile due to globalization and technology, but more on that some other time). We all need predictable and reproducible models to deal with this world. Hence all the books and frameworks on how to raise kids and how to build great products and companies.
 
-Become a member
 All these books and frameworks suffer from survivor bias. This reminds me of the story about a national coin-flipping contest Warren Buffet wrote about 40 years ago: if 300 million people start flipping coins, after 20 rounds there will be 200 people who got heads 20 times in a row. At least some of them will start writing books about their coin flipping techniques.
 
 There are many examples to pick, but I’ll focus on two that are fairly prominent and popular in the tech circles:
