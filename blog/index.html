@@ -21,6 +21,9 @@ description: Thoughts on software engineering, products, and building things
           {{ post.date | date: "%B %d, %Y" }}
         </time>
       </p>
+      <div class="post-excerpt">
+        {{ post.excerpt }}
+      </div>
     </article>
   {% endfor %}
 </div>
