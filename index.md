@@ -3,7 +3,7 @@ title: Clarity d.o.o. website
 ---
 
 <nav style="margin-bottom: 2em;">
-  <a href="/blog">Blog</a> | <a href="/notes/index.html">Notes</a>
+  <a href="/blog">Blog</a> 
 </nav>
 
 Hi,
