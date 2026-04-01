@@ -20,10 +20,8 @@
             <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
           {% endif %}
 
-          <div class="header-brand">
-            <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
-            <img src="{{ '/assets/images/logo.jpg' | relative_url }}" alt="Clarity logo" class="site-logo">
-          </div>
+          <img src="{{ '/assets/images/logo.jpg' | relative_url }}" alt="Clarity logo" class="site-logo">
+          <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
           {% if site.show_downloads %}
